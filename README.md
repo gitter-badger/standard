@@ -29,7 +29,7 @@
 
 ## LICENSE [![MIT][license]][license-url]
 
-[guide-code]: http://codeguide.co
+[guide-code]: http://codeguide.co/#html
 [guide-html]: http://cssguidelin.es/#html
 [guide-html-naming]: http://cssguidelin.es/#naming-conventions-in-html
 
