@@ -1,0 +1,6 @@
+{
+  "name": "Standard HTML ",
+  "tagline": "Guidelines",
+  "body": "** ! WIP !**\r\n\r\n# Standard HTML\r\n## Links\r\n\r\n- [Code Guide][code-guide]\r\n\r\n- [CSS Guidelines #HTML][css-guide-html]\r\n- [CSS Guidelines #HTML Naming][css-guide-html-naming]\r\n\r\n## Table of Contents\r\n\r\n- Syntax\r\n  - SML\r\n- Attributes\r\n  - Order\r\n- Selectors\r\n  - Naming\r\n\r\n## Contents\r\n\r\n## Examples\r\n\r\n## LICENSE [![MIT][license]][license-url]\r\n\r\n[code-html]: (http://codeguide.co)\r\n[css-guide-html]: (http://cssguidelin.es/#html)\r\n[css-guide-html-naming]: ()\r\n\r\n[license]: https://img.shields.io/github/license/StandardHTML/standard.svg\r\n[license-url]: https://raw.githubusercontent.com/StandardHTML/standard/master/LICENSE\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
