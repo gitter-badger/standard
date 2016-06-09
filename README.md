@@ -9,6 +9,8 @@
 
 ## Links
 
+[![Join the chat at https://gitter.im/StandardHTML/standard](https://badges.gitter.im/StandardHTML/standard.svg)](https://gitter.im/StandardHTML/standard?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 - [Code Guide][guide-code]
 
 - [CSS Guidelines #HTML][guide-html]
